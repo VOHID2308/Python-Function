@@ -3,4 +3,3 @@ def palindrom(soz):
 
 soz = input("sozni kiriting : ")
 print(palindrom(soz))
-

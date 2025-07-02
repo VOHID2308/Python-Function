@@ -1,7 +1,8 @@
+#demak bu bizda ikkita tanlov beradigan dastur 
 def Celsius(c):# bu celsini franheitga ozgartiradi 
     return c * 9/5 + 32
 
-def Fahrenheit(f):
+def Fahrenheit(f):# bu franheitni celsiga ozgartiradi 
     return (f - 32) * 5/9
 
 print("1. Celsis → Franheit")
